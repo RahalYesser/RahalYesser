@@ -15,12 +15,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://linkedin.com/in/rahalyesser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahalyesser" height="30" width="40" /></a>
 <a href="https://fb.com/yess'er ra'hal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yess'er ra'hal" height="30" width="40" /></a>
 <a href="https://instagram.com/yesserrahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yesserrahal" height="30" width="40" /></a>
 <a href="https://twitter.com/rahalyesser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahalyesser" height="30" width="40" /></a>
 <a href="https://www.behance.net/rahalyesser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rahalyesser" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Portfolio :</h3>
+<p><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=rahalyesser&" alt"Portfolio" /> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=rahalyesser&theme=gruvbox&" alt="rahalyesser" /> </p>
 
@@ -40,6 +44,7 @@
 
 
 <p> 
- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rahalyesser" alt="chart" />
-
+ <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rahalyesser&labels" alt="chart" />
 </p>
+
+
