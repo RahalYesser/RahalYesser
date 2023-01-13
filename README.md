@@ -38,4 +38,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahalyesser&theme=dark" alt="rahalyesser" />
 </p> <br>
 
+<codersrank-skills-chart username="rahalyesser"></codersrank-skills-chart>
+
 <p></p>
