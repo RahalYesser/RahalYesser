@@ -34,7 +34,7 @@
 
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=rahalyesser&theme=dark&show_icons=true&locale=en" alt="rahalyesser" />
-   &nbsp; &nbsp;
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahalyesser&theme=dark" alt="rahalyesser" />
 </p> <br>
 
