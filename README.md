@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rahalyesser@bizerte.r-iset.tn**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **There are more 700 coding languages out there!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,9 +22,6 @@
 <a href="https://twitter.com/rahalyesser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahalyesser" height="30" width="40" /></a>
 <a href="https://www.behance.net/rahalyesser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rahalyesser" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Portfolio :</h3>
-<p><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=rahalyesser&" alt"Portfolio" /> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=rahalyesser&theme=gruvbox&" alt="rahalyesser" /> </p>
 
