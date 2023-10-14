@@ -5,11 +5,11 @@
 <h3 align="center">A web & mobile developer from Tunisia</h3>
  &nbsp;
 
-- 🌱 I’m currently learning **Blazor, ASP.NET, Angular**
+- 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **anything web related**
 
-- 📫 How to reach me **rahalyesser@bizerte.r-iset.tn**
+- 📫 How to reach me **yesser.rahal@sesame.com.tn**
 
 - ⚡ Fun fact **There are more 700 coding languages out there!**
 
