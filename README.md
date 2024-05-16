@@ -5,7 +5,7 @@
 <h3 align="center">A web & mobile developer from Tunisia</h3>
  &nbsp;
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** & **React**
 
 - 💬 Ask me about **anything web related**
 
