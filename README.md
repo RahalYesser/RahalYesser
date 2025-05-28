@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/1mwdqr51emcAAAAC/test-typing.gif" alt="Master head" width="1000" height="300" align="center" />
 
 <h1 align="center">Hi 👋, I'm Yesser RAHAL</h1>
-<h3 align="center">A web & mobile developer from Tunisia</h3>
+<h3 align="center">A Software Engineering Student from Tunisia</h3>
  &nbsp;
 
 - 🌱 I’m currently learning **ASP.NET Core**, **Cloud Computing**, **React** & **Docker**
