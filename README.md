@@ -5,7 +5,7 @@
 <h3 align="center">A web & mobile developer from Tunisia</h3>
  &nbsp;
 
-- 🌱 I’m currently learning **.NET**, **Symfony** & **React**
+- 🌱 I’m currently learning **ASP.NET Core**, **Cloud Computing**, **React** & **Docker**
 
 - 💬 Ask me about **anything web related**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/yesser-rahal-3838581b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahalyesser" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yesser-rahal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahalyesser" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100022676674376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yess'er ra'hal" height="30" width="40" /></a>
 <a href="https://instagram.com/yesserrahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yesserrahal" height="30" width="40" /></a>
 <a href="https://twitter.com/rahalyesser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahalyesser" height="30" width="40" /></a>
