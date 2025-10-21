@@ -5,7 +5,7 @@
 <h3 align="center">A Software Engineering Student from Tunisia</h3>
  &nbsp;
 
-- 🌱 I’m currently learning **ASP.NET Core**, **Cloud Computing**, **React** & **Docker**
+- 🌱 I’m currently learning **Kubernetes**, **Docker** & **Github Actions**
 
 - 💬 Ask me about **anything web related**
 
